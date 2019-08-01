@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BingFa.iml" filepath="$PROJECT_DIR$/BingFa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMemoryModel/JavaMemoryModel.iml" filepath="$PROJECT_DIR$/JavaMemoryModel/JavaMemoryModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThread/MultiThread.iml" filepath="$PROJECT_DIR$/MultiThread/MultiThread.iml" />
+    </modules>
+  </component>
+</project>
